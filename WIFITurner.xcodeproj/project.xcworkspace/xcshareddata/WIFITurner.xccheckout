@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>529E7A9A-5708-4432-BE1F-B300009449FA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WIFITurner</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DA738A74-5064-40EB-ADA4-260E81F3D4D1</key>
+		<string>https://github.com/shinvou/WIFITurner.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WIFITurner.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DA738A74-5064-40EB-ADA4-260E81F3D4D1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shinvou/WIFITurner.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DA738A74-5064-40EB-ADA4-260E81F3D4D1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DA738A74-5064-40EB-ADA4-260E81F3D4D1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WIFITurner</string>
+		</dict>
+	</array>
+</dict>
+</plist>

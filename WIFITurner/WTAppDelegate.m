@@ -15,7 +15,6 @@
     self.statusItem = [[NSStatusBar systemStatusBar] statusItemWithLength:NSVariableStatusItemLength];
     self.statusItem.title = @"W";
     self.statusItem.highlightMode = YES;
-    [self.statusItem setEnabled:YES];
     
     NSMenu *menu = [[NSMenu alloc] init];
     

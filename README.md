@@ -1,5 +1,5 @@
 # WIFITurner
-## Quickly turn your current network interface off and on again.
+## Quickly turn your current network interface off and on again
 
 ### Intro
 WIFITurner is a menu bar application for Mac OS X that allows users to quickly turn the current network interface off and, after three seconds delay, on again. This process is automated.
